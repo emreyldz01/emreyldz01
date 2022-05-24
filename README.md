@@ -8,7 +8,7 @@ FULL STACK DEVELOPER
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [emreyldz188@gmail.com](mailto:emreyldz188@gmail.com)
-* 🧠  I'm learning I'm learning Java and Spring Framework
+* 🧠  I'm learning Java and Spring Framework
 
 ### Skills
 
