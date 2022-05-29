@@ -1,7 +1,7 @@
 Hi 👋 My name is EMRE YILDIZ
 ============================
 
-FULL STACK DEVELOPER
+BACK-END DEVELOPER
 --------------------
 
 🔎Blockchain technology enthusiast
